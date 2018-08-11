@@ -14,62 +14,14 @@ Platform assembly: C:\Users\jbert\Desktop\Travaux\FlappyKirby\FlappyKirby\Flappy
 Loading C:\Users\jbert\Desktop\Travaux\FlappyKirby\FlappyKirby\FlappyKirby_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\jbert\Desktop\Travaux\FlappyKirby\FlappyKirby\FlappyKirby_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\jbert\Desktop\Travaux\FlappyKirby\FlappyKirby\FlappyKirby_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.171 seconds
+- Completed reload, in  0.075 seconds
 Platform assembly: C:\Users\jbert\Desktop\Travaux\FlappyKirby\FlappyKirby\FlappyKirby_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\jbert\Desktop\Travaux\FlappyKirby\FlappyKirby\FlappyKirby_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 100.080299 ms
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.523911 ms
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 267.
-Total: 0.194220 ms (FindLiveObjects: 0.024080 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.151586 ms  DeleteObjects: 0.007895 ms)
-
-25
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.622844 ms
-
-Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 0.639505 ms (FindLiveObjects: 0.047370 ms CreateObjectMapping: 0.037501 ms MarkObjects: 0.488708 ms  DeleteObjects: 0.064740 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.384887 ms
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 267.
-Total: 0.226195 ms (FindLiveObjects: 0.019737 ms CreateObjectMapping: 0.011842 ms MarkObjects: 0.184746 ms  DeleteObjects: 0.009079 ms)
-
-26
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.137607 ms
-
-Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 0.603188 ms (FindLiveObjects: 0.040265 ms CreateObjectMapping: 0.034738 ms MarkObjects: 0.457917 ms  DeleteObjects: 0.068687 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.519499 ms
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 267.
-Total: 0.225800 ms (FindLiveObjects: 0.020922 ms CreateObjectMapping: 0.011447 ms MarkObjects: 0.183167 ms  DeleteObjects: 0.009474 ms)
-
-26
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.428624 ms
-
-Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 0.606346 ms (FindLiveObjects: 0.041449 ms CreateObjectMapping: 0.031185 ms MarkObjects: 0.474102 ms  DeleteObjects: 0.058423 ms)
-
+UnloadTime: 0.609108 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2d6c -> priority: 1 
-  Thread -> id: 48c -> priority: 1 
+  Thread -> id: 2a98 -> priority: 1 
+  Thread -> id: 2964 -> priority: 1 
